@@ -13,9 +13,10 @@ Prerequisites
 Step 1 – Install WireGuard on Ubuntu 22.04
 
 1) The WireGuard is available from default Ubuntu repositories. You can install it using the below command:
-
+```
 sudo apt update
 sudo apt install wireguard
+```
 
 It will install the WireGuard module and tools too.
 Step 2 – Configure the WireGuard
