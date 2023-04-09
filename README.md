@@ -1,3 +1,4 @@
+![og-logo](https://user-images.githubusercontent.com/66946245/230782142-0bd2263a-f352-4807-afd5-303f30a2541e.png)
 # WireGuard-VPN-on-Ubuntu-22.04
 How to Set up a Secure WireGuard VPN on Ubuntu 22.04
 Introduction
